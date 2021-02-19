@@ -1,4 +1,4 @@
-# nomogram
+# nomograma
 
 Esse é um script em python que plota um nomograma de protocolo de amostragem segundo a teoria de Pierre Gy. O script tem como dependências os pacotes numpy, pandas e matplotlib. Para instalá-las:
 
