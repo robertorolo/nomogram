@@ -26,3 +26,5 @@ Para rodar o script basta o comando: `python nomograma.py protocolo.csv`.
 
 Uma imagem será salva no mesmo diretório do arquivo `nomograma.py`.
 
+# Exemplo de nomograma
+![alt text](ex.png)
